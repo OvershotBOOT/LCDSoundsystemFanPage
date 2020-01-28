@@ -1,0 +1,22 @@
+#background {
+    background-color: rgb(4, 41, 33);
+    text-align: center;
+}
+#head1 {
+    color: slateblue;
+}
+#head2 {
+    color: royalblue;
+}
+#p1 {
+    color: royalblue;
+}
+#hyperlink {
+    color: rgba(0, 162, 255, 0.658);
+}
+#head3 {
+    color: royalblue;
+}
+#hyperlink:hover {
+    color: hotpink;
+}
